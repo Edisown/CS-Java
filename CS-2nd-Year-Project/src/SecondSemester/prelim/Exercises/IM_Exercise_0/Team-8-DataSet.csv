@@ -1,0 +1,500 @@
+artist,song,duration_ms,explicit,year,popularity,key,tempo,genre
+Britney Spears,Oops!...I Did It Again,211160,FALSE,2000,77,1,95.053,pop
+blink-182,All The Small Things,167066,FALSE,1999,79,0,148.726,"rock, pop"
+Faith Hill,Breathe,250546,FALSE,1999,66,7,136.859,"pop, country"
+Bon Jovi,It's My Life,224493,FALSE,2000,78,0,119.992,"rock, metal"
+*NSYNC,Bye Bye Bye,200560,FALSE,2000,65,8,172.656,pop
+Sisqo,Thong Song,253733,TRUE,1999,69,2,121.549,"hip hop, pop, R&B"
+Eminem,The Real Slim Shady,284200,TRUE,2000,86,5,104.504,hip hop
+Robbie Williams,Rock DJ,258560,FALSE,2000,68,7,103.035,"pop, rock"
+Destiny's Child,Say My Name,271333,FALSE,1999,75,5,138.009,"pop, R&B"
+Modjo,Lady - Hear Me Tonight,307153,FALSE,2001,77,6,126.041,Dance/Electronic
+Gigi D'Agostino,L'Amour Toujours,238759,FALSE,2011,1,7,139.066,pop
+Eiffel 65,Move Your Body - Gabry Ponte Original Radio Edit,268863,FALSE,1999,56,7,129.962,pop
+Bomfunk MC's,Freestyler,306333,FALSE,2000,55,11,163.826,pop
+Sting,Desert Rose,285960,FALSE,1999,62,0,111.989,"rock, pop"
+Melanie C,Never Be The Same Again,294200,FALSE,1999,61,3,160.067,"pop, Dance/Electronic"
+Aaliyah,Try Again,284000,FALSE,2002,53,6,93.02,"hip hop, pop, R&B"
+Anastacia,I'm Outta Love - Radio Edit,245400,FALSE,1999,64,10,119.41,pop
+Alice Deejay,Better Off Alone,214883,FALSE,2000,73,8,136.953,pop
+Gigi D'Agostino,The Riddle,285426,FALSE,1999,64,6,127.002,pop
+Dr. Dre,The Next Episode,161506,TRUE,1999,82,10,95.295,hip hop
+Linkin Park,In the End,216880,FALSE,2000,83,3,105.143,"rock, metal"
+Tom Jones,Sexbomb,211893,FALSE,1999,65,8,122.979,"rock, Folk/Acoustic, easy listening"
+Sonique,It Feels So Good,240866,FALSE,2000,62,5,135.012,pop
+M.O.P.,Cold as Ice,244466,TRUE,2000,54,11,85.565,hip hop
+Melanie C,I Turn To You,352173,FALSE,1999,54,1,135.205,"pop, Dance/Electronic"
+Limp Bizkit,Take A Look Around,321040,FALSE,2000,72,11,101.968,metal
+Darude,Sandstorm,225493,FALSE,2001,69,11,136.065,"pop, Dance/Electronic"
+Da Brat,What'chu Like (feat. Tyrese),221160,TRUE,2000,53,10,99.974,"hip hop, pop, R&B"
+Moloko,The Time Is Now,318280,FALSE,2000,54,9,127.962,"pop, Dance/Electronic"
+Chicane,Don't Give Up,210786,FALSE,2016,47,10,132.017,Dance/Electronic
+DMX,Party Up,268866,TRUE,1999,71,11,201.936,"hip hop, pop"
+Debelah Morgan,Dance with Me,220106,FALSE,2000,49,7,115.005,"pop, R&B"
+Madonna,Music,225973,FALSE,2000,58,7,119.854,pop
+Ruff Endz,No More,242560,FALSE,2000,52,10,97.004,R&B
+Britney Spears,Born to Make You Happy,243533,FALSE,1999,58,11,84.11,pop
+Montell Jordan,Get It On Tonite,276266,FALSE,1999,59,10,99.008,"hip hop, pop, R&B"
+Kylie Minogue,Spinning Around,207866,FALSE,2000,55,6,120.043,"pop, Dance/Electronic"
+JAY-Z,Big Pimpin',283066,TRUE,1999,69,11,138.083,hip hop
+LeAnn Rimes,I Need You,229826,FALSE,2001,61,7,144.705,"pop, country"
+Avant,Separated,255600,FALSE,2000,55,0,108.241,"pop, R&B"
+Enrique Iglesias,Be With You,219360,FALSE,1999,54,1,121.996,"pop, latin"
+Toni Braxton,He Wasn't Man Enough,261933,FALSE,2000,66,11,88.009,"pop, R&B"
+Bow Wow,Bounce With Me (feat. Xscape) - Edited Album Version,175893,FALSE,2000,36,8,72.016,"hip hop, pop, R&B"
+Dr. Dre,Forgot About Dre,222293,TRUE,1999,79,8,133.974,hip hop
+Missy Elliott,Hot Boyz,215466,TRUE,1998,49,1,81.125,"hip hop, pop, R&B"
+Backstreet Boys,Show Me the Meaning of Being Lonely,234960,FALSE,1999,68,6,167.998,pop
+Samantha Mumba,Gotta Tell You,201946,FALSE,2018,43,0,109.981,pop
+Mýa,Case Of The Ex (Whatcha Gonna Do),236906,FALSE,2000,59,1,98,"pop, R&B"
+Mary Mary,Shackles (Praise You),198346,FALSE,2000,64,7,100.46,R&B
+Next,Wifey,243666,FALSE,2004,52,7,99.581,"hip hop, pop, R&B"
+Janet Jackson,Doesn't Really Matter,265026,FALSE,2001,47,5,99.316,"pop, R&B"
+Ricky Martin,She Bangs - English Version,280626,FALSE,2000,60,1,143.866,"pop, latin"
+Jagged Edge,He Can't Love U,244053,FALSE,2000,55,8,126.279,"hip hop, pop, R&B"
+Sisqo,Incomplete,274226,TRUE,1999,60,1,119.311,"hip hop, pop, R&B"
+JAY-Z,I Just Wanna Love U (Give It 2 Me),227866,TRUE,2000,59,4,98.631,hip hop
+Mariah Carey,Thank God I Found You (feat. Joe & 98°),257360,FALSE,1999,59,10,129.297,"pop, R&B"
+Baha Men,Who Let The Dogs Out,198400,FALSE,2000,65,0,129.221,R&B
+Donell Jones,"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",243733,TRUE,1999,63,8,103.032,"pop, R&B"
+LeAnn Rimes,Can't Fight The Moonlight,215506,FALSE,2001,65,6,97.865,"pop, country"
+Oasis,Go Let It Out,278666,FALSE,2000,0,2,84.192,"Folk/Acoustic, rock"
+DJ Ötzi,Hey Baby (Radio Mix),219240,FALSE,2010,58,10,135.099,"pop, easy listening, Dance/Electronic"
+P!nk,Most Girls,298960,FALSE,2000,52,2,97.922,pop
+Mariah Carey,Against All Odds (Take A Look at Me Now) (feat. Westlife),199480,FALSE,2011,0,1,117.338,"pop, R&B"
+Craig David,Fill Me In,257200,FALSE,2000,60,8,132.493,"hip hop, pop, R&B"
+Christina Aguilera,I Turn to You,273706,FALSE,1999,61,1,127.177,pop
+Madonna,American Pie,273533,FALSE,2000,58,5,124.036,pop
+Red Hot Chili Peppers,Otherside,255373,FALSE,1999,78,0,123.229,rock
+Sammie,I Like It,251040,FALSE,2000,55,9,129.963,"hip hop, pop, R&B"
+Craig David,7 Days,235133,FALSE,2000,70,4,83.014,"hip hop, pop, R&B"
+Santana,Maria Maria (feat. The Product G&B),261973,FALSE,1999,66,2,97.911,"rock, blues, latin"
+Kandi,Don't Think I'm Not,243533,FALSE,2000,55,11,134.007,"pop, R&B"
+P!nk,There You Go,202800,FALSE,2000,55,10,107.908,pop
+Vengaboys,Shalala Lala,214819,FALSE,2000,58,2,124.017,pop
+Ronan Keating,Life Is A Rollercoaster,234826,FALSE,2000,59,0,118.981,"pop, rock"
+Madison Avenue,Don't Call Me Baby,228140,FALSE,1999,56,3,124.999,Dance/Electronic
+Destiny's Child,"Jumpin', Jumpin'",230200,FALSE,1999,70,1,88.997,"pop, R&B"
+Céline Dion,That's the Way It Is,241373,FALSE,1999,64,9,93.04,pop
+3 Doors Down,Kryptonite,233933,FALSE,2000,78,11,99.009,"pop, rock, metal"
+Carl Thomas,I Wish,226760,FALSE,2000,52,1,89.824,"pop, R&B"
+Mystikal,Shake Ya Ass,256973,TRUE,2000,57,7,98.054,"hip hop, pop"
+Fuel,Hemorrhage (In My Hands),236866,FALSE,2000,49,1,152.034,"rock, pop, metal"
+Donell Jones,Where I Wanna Be,253626,FALSE,1999,57,5,102.053,"pop, R&B"
+Savage Garden,Crash and Burn,281466,FALSE,1999,54,4,102.03,pop
+Westlife,My Love,231760,FALSE,2000,68,0,144.142,pop
+All Saints,Pure Shores,268746,FALSE,2000,62,6,100.618,pop
+Destiny's Child,"Independent Women, Pt. 1",221133,FALSE,2001,65,6,97.954,"pop, R&B"
+*NSYNC,It's Gonna Be Me,191040,FALSE,2000,60,0,165.09,pop
+Erykah Badu,Bag Lady,348893,FALSE,2000,54,5,151.181,"hip hop, R&B"
+Marc Anthony,You Sang To Me,347106,FALSE,1999,56,10,165.98,"pop, latin"
+Matchbox Twenty,Bent,256133,FALSE,2000,54,6,95.468,"pop, rock"
+Gabrielle,Rise,219093,FALSE,2001,60,8,144.673,"pop, R&B"
+Backstreet Boys,Shape of My Heart,230093,FALSE,2000,70,9,96.102,pop
+Creed,With Arms Wide Open,274800,FALSE,1999,64,0,138.852,"pop, rock, metal"
+The Corrs,Breathless,207506,FALSE,2000,68,11,126.988,"pop, Folk/Acoustic"
+Joe,I Wanna Know,296693,FALSE,2000,65,8,136.086,"pop, R&B"
+Wheatus,Teenage Dirtbag,241666,TRUE,1999,71,4,94.661,"pop, rock"
+Christina Aguilera,Come on over Baby (All I Want Is You) - Radio Version,203333,FALSE,1999,64,8,118.903,pop
+Creed,Higher,316733,FALSE,1999,69,2,155.827,"pop, rock, metal"
+Britney Spears,Lucky,206226,FALSE,2000,65,8,95.026,pop
+Nelly,Country Grammar (Hot Shit),287000,TRUE,2000,68,2,162.831,"hip hop, pop, R&B"
+Shaggy,It Wasn't Me,227600,FALSE,2000,76,0,94.759,"hip hop, pop"
+Destiny's Child,Survivor,254026,FALSE,2001,70,1,161.109,"pop, R&B"
+Eminem,Stan,404106,TRUE,2000,83,6,80.063,hip hop
+Kylie Minogue,Can't Get You out of My Head,230640,FALSE,2001,73,9,126.007,"pop, Dance/Electronic"
+Christina Aguilera,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",264893,FALSE,2001,68,5,109.919,pop
+Nelly Furtado,I'm Like A Bird,243160,FALSE,2000,1,10,89.661,"hip hop, pop, latin"
+Shakira,"Whenever, Wherever",196160,FALSE,2001,74,1,107.657,"pop, latin"
+Jimmy Eat World,The Middle,165853,FALSE,2001,78,2,162.152,"rock, pop"
+Train,Drops of Jupiter (Tell Me),259933,FALSE,2001,77,0,79.064,pop
+Geri Halliwell,It's Raining Men,254640,FALSE,2001,62,5,136.482,pop
+Blu Cantrell,Hit 'Em Up Style (Oops!),250706,FALSE,2001,71,5,89.976,"pop, R&B"
+Britney Spears,I'm a Slave 4 U,203600,FALSE,2001,69,5,110.027,pop
+Kylie Minogue,In Your Eyes,197826,FALSE,2001,62,6,123.971,"pop, Dance/Electronic"
+Missy Elliott,One Minute Man (feat. Ludacris),252986,TRUE,2001,57,9,93.839,"hip hop, pop, R&B"
+Mary J. Blige,Family Affair,265866,FALSE,2001,76,8,92.887,"pop, R&B"
+Faithless,We Come 1 - Radio Edit,222435,FALSE,2015,53,5,135.977,"pop, Dance/Electronic"
+Limp Bizkit,Rollin' (Air Raid Vehicle),213760,TRUE,2000,73,1,96.306,metal
+Lasgo,Something,220973,FALSE,2001,65,7,140.01,pop
+iio,Rapture (feat.Nadia Ali),253586,FALSE,2006,54,8,123.943,Dance/Electronic
+Emma Bunton,What Took You So Long?,241000,FALSE,2001,54,9,118.011,pop
+112,It's Over Now,264933,FALSE,2001,57,1,97.988,"hip hop, pop, R&B"
+Blue,All Rise,223546,FALSE,2001,63,5,97.996,pop
+Jessica Simpson,Irresistible,194026,FALSE,2001,43,8,93.013,"pop, R&B"
+Crazy Town,Butterfly,216733,FALSE,1999,71,9,103.502,"rock, metal"
+Michael Jackson,You Rock My World,337733,FALSE,2001,64,4,95,"pop, R&B"
+Eve,Let Me Blow Ya Mind,230133,TRUE,2001,73,8,90.032,"hip hop, pop, R&B"
+Jennifer Lopez,Ain't It Funny,246160,FALSE,2001,0,5,99.825,"hip hop, pop, R&B"
+Brandy,Another Day in Paradise - R&B-Version,271626,FALSE,2002,50,6,102.043,"hip hop, pop, R&B"
+Nickelback,How You Remind Me,223840,FALSE,2001,78,10,172.094,"rock, metal"
+Daft Punk,One More Time,320357,FALSE,2001,76,2,122.746,"hip hop, Dance/Electronic"
+Outkast,Ms. Jackson,270506,TRUE,2000,82,4,94.948,"hip hop, pop"
+Fragma,Everytime You Need Me - Radio Version,213346,FALSE,2001,50,11,137.029,"pop, Dance/Electronic"
+Mariah Carey,Loverboy,229173,FALSE,2001,42,1,103.141,"pop, R&B"
+Dido,Thank You,218360,FALSE,1999,73,1,79.984,pop
+Joe,Stutter (feat. Mystikal) - Double Take Remix,213026,FALSE,2000,57,6,89.989,"pop, R&B"
+P.O.D.,Youth of the Nation,256240,FALSE,2001,69,8,97.867,"rock, metal"
+Jennifer Lopez,Play,211493,TRUE,2001,57,1,104.719,"hip hop, pop, R&B"
+Missy Elliott,Get Ur Freak On,211120,TRUE,2001,68,0,177.87,"hip hop, pop, R&B"
+Ricky Martin,Nobody Wants to Be Lonely (with Christina Aguilera),252706,FALSE,2008,52,10,100.851,"pop, latin"
+Christina Milian,AM To PM,231213,FALSE,2001,60,10,105.005,"hip hop, pop, R&B"
+Roger Sanchez,Another Chance,452906,FALSE,2000,50,3,127.993,Dance/Electronic
+Gorillaz,Clint Eastwood,340920,TRUE,2001,74,10,167.953,hip hop
+2Pac,Until The End Of Time,266506,TRUE,2001,57,8,96.976,hip hop
+Tamia,Stranger in My House,285386,FALSE,2000,48,0,119.94,"pop, R&B"
+Mary J. Blige,No More Drama,326240,FALSE,2001,61,6,97.914,"pop, R&B"
+Jennifer Lopez,Love Don't Cost a Thing,221226,FALSE,2001,67,4,97.577,"hip hop, pop, R&B"
+Jamiroquai,Little L,295400,FALSE,2001,65,10,121.906,pop
+Case,Missing You,284666,FALSE,2001,55,1,86.31,"hip hop, pop, R&B"
+112,Peaches & Cream,193093,FALSE,2001,63,4,203.862,"hip hop, pop, R&B"
+Five,Let's Dance - Radio Edit,218626,FALSE,2001,47,4,118.007,pop
+Rui Da Silva,Touch Me (Radio Edit) [feat. Cassandra],213133,FALSE,2001,54,0,129.078,Dance/Electronic
+Alien Ant Farm,Smooth Criminal,209266,FALSE,2001,75,9,126.928,"rock, metal"
+Erick Sermon,Music (feat. Marvin Gaye),223133,TRUE,2001,57,10,100.01,"hip hop, pop"
+D12,Purple Pills,304506,TRUE,2001,68,1,125.25,"hip hop, pop, rock"
+Usher,Pop Ya Collar - Radio Edit,210813,FALSE,2016,26,5,106.957,"hip hop, pop, R&B"
+Madonna,Don't Tell Me,280973,FALSE,2000,53,7,99.965,pop
+Blue,If You Come Back,207560,FALSE,2001,58,10,78.375,pop
+Atomic Kitten,Eternal Flame - Single Version,195506,FALSE,2001,58,0,83.293,pop
+Jagged Edge,Where the Party At (feat. Nelly),232573,FALSE,2001,67,5,129.491,"hip hop, pop, R&B"
+Afroman,Because I Got High,197760,TRUE,2001,68,7,166.01,hip hop
+S Club 7,Don't Stop Movin',233626,FALSE,2001,63,7,117.033,pop
+Craig David,Fill Me In,257200,FALSE,2000,60,8,132.493,"hip hop, pop, R&B"
+Nelly Furtado,Turn Off The Light,276106,FALSE,2000,1,2,180.184,"hip hop, pop, latin"
+The Supermen Lovers,Starlight - Radio Edit,234400,FALSE,2001,61,0,127.487,Dance/Electronic
+Mis-Teeq,All I Want - Sunship Radio Edit,207400,FALSE,2004,46,9,134.079,"pop, Dance/Electronic"
+Jagged Edge,Promise,246720,FALSE,2000,56,5,128.002,"hip hop, pop, R&B"
+S Club 7,Have You Ever,201533,FALSE,2001,60,0,139.909,pop
+Enya,Only Time,218546,FALSE,2000,69,3,82.803,"World/Traditional, Folk/Acoustic"
+Faith Hill,There You'll Be,222120,FALSE,2001,60,8,128.98,"pop, country"
+Ronan Keating,Lovin' Each Day,212973,FALSE,2000,58,1,106.676,"pop, rock"
+Destiny's Child,Bootylicious,207906,FALSE,2001,64,1,103.376,"pop, R&B"
+Steps,It's the Way You Make Me Feel,197360,FALSE,2000,53,8,105.006,"pop, Dance/Electronic"
+Sunshine Anderson,Heard It All Before,295826,FALSE,2001,56,3,96.951,"pop, R&B"
+Lenny Kravitz,Again,231666,FALSE,2000,68,2,79.166,"rock, pop"
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,162333,FALSE,2002,46,7,133.592,pop
+DB Boulevard,Point Of View - Radio Edit,231166,FALSE,2018,0,6,129.006,Dance/Electronic
+Janet Jackson,All For You,329933,FALSE,2001,65,2,113.525,"pop, R&B"
+Atomic Kitten,Whole Again,185013,FALSE,2001,66,4,94.019,pop
+Ja Rule,Livin' It Up,257066,FALSE,2001,64,6,106.095,"hip hop, pop, R&B"
+Destiny's Child,"Independent Women, Pt. 1",221133,FALSE,2001,65,6,97.954,"pop, R&B"
+DJ Pied Piper & The Masters Of Ceremonies,Do You Really Like It? - Radio Edit,217120,FALSE,2001,54,2,131.044,Dance/Electronic
+Jennifer Lopez,I'm Real (feat. Ja Rule) - Murder Remix,262133,TRUE,2001,66,11,83.46,"hip hop, pop, R&B"
+Musiq Soulchild,Love,304666,FALSE,2000,0,1,99.738,"pop, R&B"
+So Solid Crew,21 Seconds,302826,TRUE,2001,51,1,137.03,Dance/Electronic
+Robbie Williams,Eternity,302760,FALSE,2001,48,10,77.967,"pop, rock"
+Basement Jaxx,Romeo,217493,FALSE,2001,0,2,126.853,"pop, Dance/Electronic"
+Ludacris,Southern Hospitality (Featuring Pharrell),300933,TRUE,2000,54,0,95.158,"hip hop, pop"
+Gabrielle,Rise,219093,FALSE,2001,60,8,144.673,"pop, R&B"
+Nelly,Ride Wit Me,291781,TRUE,2000,75,7,101.875,"hip hop, pop, R&B"
+Trick Daddy,I'm a Thug,254400,TRUE,2001,59,11,139.976,"hip hop, pop"
+Travis,Sing,228800,FALSE,2001,68,4,163.142,"rock, pop"
+JAY-Z,Izzo (H.O.V.A.),240626,TRUE,2001,63,1,84.411,hip hop
+Gabrielle,Out Of Reach,196986,FALSE,2001,69,11,182.862,"pop, R&B"
+OPM,Heaven Is a Halfpipe (If I Die),257426,TRUE,2000,56,8,95.9,rock
+K-Ci & JoJo,Crazy,262773,FALSE,2019,30,0,116.097,"pop, R&B"
+Staind,It's Been Awhile,264706,TRUE,2001,64,6,116.529,"rock, metal"
+3LW,No More (Baby I'ma Do Right),263440,FALSE,2000,56,2,88.933,"pop, R&B"
+Ginuwine,Differences,265533,FALSE,2001,65,3,62.876,"hip hop, pop, R&B"
+*NSYNC,Gone,292000,FALSE,2001,45,11,113.922,pop
+Lifehouse,Hanging By A Moment,216360,FALSE,2000,61,1,124.599,"pop, rock, metal"
+Nelly,Dilemma,289160,TRUE,2002,77,2,168.189,"hip hop, pop, R&B"
+Eminem,Without Me,290320,TRUE,2002,87,7,112.238,hip hop
+Avril Lavigne,Complicated,244506,FALSE,2002,78,5,77.987,pop
+Vanessa Carlton,A Thousand Miles,237493,FALSE,2002,75,11,94.931,"Folk/Acoustic, pop"
+The Calling,Wherever You Will Go,208600,FALSE,2001,72,2,112.027,pop
+Shakira,Underneath Your Clothes,224066,FALSE,2001,64,8,165.508,"pop, latin"
+No Doubt,Underneath It All,302720,FALSE,2001,27,4,138.202,"rock, pop"
+Truth Hurts,Addictive,226440,TRUE,2002,58,11,99.271,"pop, R&B"
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),324306,TRUE,2002,68,6,85.996,"hip hop, pop"
+Eminem,'Till I Collapse,297786,TRUE,2002,85,1,171.447,hip hop
+Diddy,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",285586,FALSE,2004,69,1,199.764,"hip hop, pop"
+Christina Milian,When You Look At Me - Radio Edit,222546,FALSE,2001,60,3,108.955,"hip hop, pop, R&B"
+Madonna,Die Another Day,276360,FALSE,2003,53,0,123.993,pop
+Jennifer Lopez,I'm Gonna Be Alright (feat. Nas),172240,FALSE,2002,53,10,93.401,"hip hop, pop, R&B"
+Angie Martinez,If I Could Go! (feat. Lil' Mo & Sacario),244466,FALSE,2019,40,9,195.685,pop
+Linkin Park,In the End,216880,FALSE,2000,83,3,105.143,"rock, metal"
+Las Ketchup,The Ketchup Song (Aserejé) - Spanglish Version,213973,FALSE,2002,66,1,184.819,pop
+Aaliyah,Rock The Boat,275026,FALSE,2019,0,5,92.988,"hip hop, pop, R&B"
+Holly Valance,Kiss Kiss,204400,FALSE,2002,54,4,97.036,"pop, Dance/Electronic"
+Sugababes,Round Round,236426,FALSE,2002,59,6,126.607,"pop, R&B"
+Marilyn Manson,Tainted Love,200426,FALSE,2003,60,8,142.017,"rock, metal"
+Brandy,What About Us?,253200,FALSE,2002,43,5,93.118,"hip hop, pop, R&B"
+Chad Kroeger,Hero (feat. Josey Scott),200480,FALSE,2003,66,4,147.387,metal
+Britney Spears,Overprotected - Radio Edit,198600,FALSE,2001,61,0,95.992,pop
+Scooter,The Logical Song,234116,FALSE,2013,46,6,144.043,"pop, Dance/Electronic"
+Missy Elliott,4 My People (feat. Eve),289373,TRUE,2001,49,1,121.392,"hip hop, pop, R&B"
+Aaliyah,More Than A Woman,230346,FALSE,2002,42,11,86.994,"hip hop, pop, R&B"
+Brandy,Full Moon,248933,FALSE,2002,52,10,105.922,"hip hop, pop, R&B"
+Blue,One Love,207186,FALSE,2002,60,8,95.012,pop
+Busta Rhymes,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,238600,TRUE,2001,55,6,89.767,"hip hop, pop"
+Céline Dion,A New Day Has Come - Radio Remix,259773,FALSE,2001,59,6,91.969,pop
+Scooter,Nessaja,208449,FALSE,2013,47,2,143.048,"pop, Dance/Electronic"
+Eve,Gangsta Lovin',239266,TRUE,2002,58,1,94.332,"hip hop, pop, R&B"
+Disturbing Tha Peace,Move Bitch,272293,TRUE,2002,59,1,177.894,"hip hop, pop"
+Khia,"My Neck, My Back (Lick It)",222560,TRUE,2015,59,9,102.072,"pop, R&B"
+Tweet,Oops (Oh My) [feat. Missy Elliott],237800,TRUE,2002,64,10,159.963,"hip hop, pop, R&B"
+Kylie Minogue,Spinning Around,207866,FALSE,2000,55,6,120.043,"pop, Dance/Electronic"
+Nelly,Hot In Herre,228240,TRUE,2002,75,11,107.075,"hip hop, pop, R&B"
+Gareth Gates,Anyone of Us (Stupid Mistake),227866,FALSE,2003,53,1,106.986,pop
+Christina Aguilera,Dirrty (feat. Redman),298853,FALSE,2002,68,2,99.931,pop
+B2K,Uh Huh,223293,FALSE,2002,49,2,99.699,"hip hop, pop, R&B"
+Sugababes,Freak Like Me,195866,FALSE,2002,45,5,91.868,"pop, R&B"
+Dirty Vegas,Days Go By,432146,FALSE,2002,48,9,126.99,Dance/Electronic
+Fat Joe,What's Luv? (feat. Ja-Rule & Ashanti),267093,TRUE,2001,73,8,93.955,"hip hop, pop"
+Liberty X,Just A Little,237359,FALSE,2019,43,5,103.887,pop
+No Doubt,Hella Good,242586,FALSE,2001,26,8,115.142,"rock, pop"
+LL Cool J,Luv U Better,287000,FALSE,2002,2,6,95.022,"hip hop, pop, R&B"
+Red Hot Chili Peppers,Can't Stop,269000,FALSE,2002,80,9,91.455,rock
+Musiq Soulchild,Halfcrazy,254493,FALSE,2002,58,11,101.955,"pop, R&B"
+Sean Paul,Gimme the Light,228000,TRUE,2002,59,2,107.288,"hip hop, pop"
+Faith Evans,I Love You,267160,FALSE,2001,53,11,168.004,"hip hop, pop, R&B"
+Charli Baltimore,Down 4 U,318213,TRUE,2002,47,7,83.133,pop
+Kylie Minogue,Love at First Sight,238266,FALSE,2001,55,3,124.994,"pop, Dance/Electronic"
+N.O.R.E.,Nothin',264653,TRUE,2002,58,3,97.035,"hip hop, pop"
+Gareth Gates,Unchained Melody,233666,FALSE,2003,35,10,106.52,pop
+Diddy,I Need a Girl (Pt. 1) [feat. Usher & Loon],268800,FALSE,2005,63,6,89.279,"hip hop, pop"
+Big Brovaz,Nu Flow,201480,FALSE,2001,45,7,148.062,pop
+No Doubt,Hey Baby,207040,FALSE,2001,24,11,93.63,"rock, pop"
+Ashanti,Baby,265706,TRUE,2002,55,4,157.596,"hip hop, pop, R&B"
+Sophie Ellis-Bextor,Murder On The Dancefloor,230013,FALSE,2002,62,1,117.31,"pop, Dance/Electronic"
+Justin Timberlake,Like I Love You,283626,FALSE,2002,62,6,114.964,pop
+Mary J. Blige,Rainy Dayz,276373,FALSE,2001,32,6,68.942,"pop, R&B"
+A1,Caught in the Middle,206466,FALSE,2001,53,5,96.072,pop
+Eminem,Cleanin' Out My Closet,297840,TRUE,2002,71,9,148.015,hip hop
+Ashanti,Happy,262226,TRUE,2002,61,2,89.488,"hip hop, pop, R&B"
+Delta Goodrem,Born to Try,251280,FALSE,2003,54,8,133.838,pop
+P!nk,Get the Party Started,192533,FALSE,2001,68,11,128.93,pop
+Alicia Keys,A Woman's Worth,303333,FALSE,2001,52,4,75.09,"pop, R&B"
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,161240,FALSE,2002,56,7,133.592,pop
+Coldplay,Clocks,307879,FALSE,2002,79,5,130.97,"rock, pop"
+Missy Elliott,Work It,263226,TRUE,2002,70,1,101.868,"hip hop, pop, R&B"
+Ronan Keating,If Tomorrow Never Comes,214306,FALSE,2002,60,10,79.01,"pop, rock"
+Big Tymers,Still Fly,335613,TRUE,2002,64,11,177.928,"hip hop, pop"
+Creed,My Sacrifice,294600,FALSE,2001,69,2,146.349,"pop, rock, metal"
+Ja Rule,Always On Time,245133,TRUE,2001,73,5,96.673,"hip hop, pop, R&B"
+Ashanti,Foolish,227386,TRUE,2002,70,0,90.119,"hip hop, pop, R&B"
+Avril Lavigne,Sk8er Boi,204000,FALSE,2002,75,0,149.937,pop
+DJ Sammy,Heaven,233600,FALSE,2002,63,8,137.965,pop
+Britney Spears,"I'm Not a Girl, Not Yet a Woman",231066,FALSE,2001,58,3,78.996,pop
+Cam’ron,Oh Boy,204706,TRUE,2002,67,6,83.014,"hip hop, pop"
+Red Hot Chili Peppers,By the Way,216933,FALSE,2002,73,0,122.444,rock
+Elvis Presley,A Little Less Conversation - JXL Radio Edit Remix,211506,FALSE,2002,60,4,114.999,"rock, easy listening"
+Atomic Kitten,The Tide Is High - Radio Mix,206093,FALSE,2002,65,7,103.997,pop
+*NSYNC,Girlfriend,253600,FALSE,2001,50,0,93.967,pop
+Robbie Williams,Somethin' Stupid,170493,FALSE,2001,64,0,106.191,"pop, rock"
+Alanis Morissette,Hands Clean,269400,FALSE,2002,57,7,99.952,"pop, Folk/Acoustic"
+Usher,U Don't Have to Call,269400,TRUE,2001,59,1,100.005,"hip hop, pop, R&B"
+Creed,One Last Breath - Radio Version,242000,FALSE,2015,47,2,130.581,"pop, rock, metal"
+The Goo Goo Dolls,Here Is Gone,238173,FALSE,2002,56,1,102.192,"pop, rock"
+Puddle Of Mudd,She Hates Me,216760,TRUE,2001,70,4,109.781,"rock, metal"
+Ludacris,Rollout (My Business),296586,TRUE,2001,60,7,131.059,"hip hop, pop"
+Blazin' Squad,Crossroads - Radio Edit,188693,FALSE,2012,40,4,144.188,"hip hop, rock, R&B"
+Default,Wasting My Time,268693,FALSE,2001,40,2,147.973,"rock, pop, metal"
+Michelle Branch,All You Wanted,217680,FALSE,2001,60,8,96.103,"pop, Folk/Acoustic"
+Daniel Bedingfield,If You're Not The One,257026,FALSE,2002,58,10,119.998,pop
+Enrique Iglesias,Escape,208626,FALSE,2001,56,11,125.972,"pop, latin"
+Puddle Of Mudd,Blurry,303920,FALSE,2001,64,3,157.469,"rock, metal"
+Coldplay,In My Place,226680,FALSE,2002,72,9,144.636,"rock, pop"
+Outkast,The Whole World (feat. Killer Mike),295346,TRUE,2001,51,2,184.682,"hip hop, pop"
+P!nk,Don't Let Me Get Me - Radio Edit,210693,FALSE,2001,60,0,98.525,pop
+50 Cent,In Da Club,193466,TRUE,2003,81,6,90.051,"hip hop, pop"
+Sean Paul,Get Busy,211666,FALSE,2002,74,10,100.202,"hip hop, pop"
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",322226,TRUE,2004,77,2,171.355,hip hop
+Beyoncé,Crazy In Love (feat. Jay-Z),236133,FALSE,2003,76,2,99.165,"pop, R&B"
+Counting Crows,Big Yellow Taxi,225426,FALSE,2003,50,8,88.029,"rock, pop"
+Black Eyed Peas,Where Is The Love?,272533,FALSE,2003,68,5,94.059,"hip hop, pop"
+Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,187840,FALSE,2002,70,6,100,"hip hop, pop, R&B"
+Black Eyed Peas,Shut Up,296186,FALSE,2003,56,2,112.968,"hip hop, pop"
+t.A.T.u.,All The Things She Said,214440,TRUE,2020,39,5,179.92,pop
+Benny Benassi,Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,285570,FALSE,2003,66,11,130.017,"pop, Dance/Electronic"
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),324306,TRUE,2002,68,6,85.996,"hip hop, pop"
+Panjabi MC,Mundian to Bach Ke,244666,FALSE,2003,61,8,98.077,"World/Traditional, hip hop"
+Mis-Teeq,Scandalous - U.S. Radio Edit,238840,FALSE,2004,59,0,99.971,"pop, Dance/Electronic"
+JAY-Z,03' Bonnie & Clyde,205560,TRUE,2002,71,9,89.64,hip hop
+50 Cent,P.I.M.P.,249480,TRUE,2003,76,10,84.722,"hip hop, pop"
+Jamelia,Superstar,215480,FALSE,2003,69,1,110.01,pop
+Linkin Park,Faint,162600,FALSE,2003,72,4,135.095,"rock, metal"
+DMX,X Gon' Give It To Ya,217586,TRUE,2007,70,10,95.027,"hip hop, pop"
+Evanescence,Bring Me To Life,235893,FALSE,2003,79,4,94.612,metal
+Sugababes,Hole In The Head,218173,FALSE,2003,57,6,125.011,"pop, R&B"
+Craig David,Rise & Fall (feat. Sting),287226,FALSE,2002,59,6,83.373,"hip hop, pop, R&B"
+Three Days Grace,I Hate Everything About You,231480,FALSE,2003,72,6,89.342,"rock, metal"
+Lil Jon & The East Side Boyz,Get Low,324600,FALSE,2002,47,1,101.043,"hip hop, pop"
+B2K,"Bump, Bump, Bump (feat. P. Diddy)",282773,FALSE,2003,62,1,95.508,"hip hop, pop, R&B"
+Baby Bash,Suga Suga,239026,FALSE,2003,73,5,82.331,"hip hop, pop, R&B, latin"
+Aaliyah,Miss You - Main,245240,FALSE,2002,36,10,109.598,"hip hop, pop, R&B"
+Britney Spears,Me Against the Music (feat. Madonna) - LP Version / Video Mix,223773,FALSE,2003,59,6,120.046,pop
+Blue,Sorry Seems To Be The Hardest Word,210066,FALSE,2004,57,7,78.955,pop
+Delta Goodrem,Lost Without You,248546,FALSE,2003,54,7,146.301,pop
+Justin Timberlake,Rock Your Body,267266,FALSE,2002,76,4,100.972,pop
+The White Stripes,Seven Nation Army,231920,FALSE,2003,3,4,123.904,"rock, blues"
+Youngbloodz,Damn! (feat. Lil' Jon) - Club Mix,298600,TRUE,2003,54,6,84.038,"hip hop, pop"
+Beyoncé,Baby Boy (feat. Sean Paul),244826,FALSE,2003,63,1,91.025,"pop, R&B"
+Lil' Kim,Magic Stick,359973,TRUE,2019,47,2,92.98,"hip hop, pop, R&B"
+Christina Aguilera,Can't Hold Us Down (feat. Lil' Kim),255266,FALSE,2002,61,8,98.989,pop
+Nickelback,Someday,207466,FALSE,2003,68,11,163.118,"rock, metal"
+Blue,U Make Me Wanna - Radio Edit,222400,FALSE,2003,48,7,158.108,pop
+Ashanti,Rain On Me,297960,FALSE,2003,50,8,83.701,"hip hop, pop, R&B"
+Trapt,Headstrong,285569,TRUE,2002,72,4,184.981,"rock, metal"
+Simply Red,Sunrise,199040,FALSE,2008,58,5,105.987,"rock, R&B, Folk/Acoustic, pop"
+Lumidee,"Never Leave You (Uh Oooh, Uh Oooh)",184906,FALSE,2003,61,6,199.958,"pop, R&B"
+Girls Aloud,Sound Of The Underground,221426,FALSE,2003,58,11,163.944,"pop, Dance/Electronic"
+Nelly,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,293666,FALSE,2016,52,1,87.025,"hip hop, pop, R&B"
+Room 5,Make Luv,212413,FALSE,2003,57,1,124.814,Dance/Electronic
+Fatman Scoop,Be Faithful,164506,TRUE,2009,49,7,101.129,hip hop
+Limp Bizkit,Behind Blue Eyes,269973,FALSE,2003,70,7,120.315,metal
+Sugababes,Too Lost In You,237693,FALSE,2003,58,1,98.014,"pop, R&B"
+50 Cent,"Wanksta - From ""8 Mile"" Soundtrack",219400,TRUE,2003,57,1,81.008,"hip hop, pop"
+Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,236506,TRUE,2003,67,9,102.009,"hip hop, pop"
+Chingy,Right Thurr,250746,TRUE,2003,69,2,92.074,"hip hop, pop, R&B"
+Eminem,Sing For The Moment,339546,TRUE,2002,71,5,163.961,hip hop
+Lil' Kim,The Jump Off (feat. Mr. Cheeks) - Remix,234800,TRUE,2003,48,1,104.946,"hip hop, pop, R&B"
+Mýa,My Love Is Like...Wo - Main Mix,209533,FALSE,2003,48,4,132.817,"pop, R&B"
+50 Cent,21 Questions,224440,TRUE,2003,72,6,92.729,"hip hop, pop"
+Nelly,Air Force Ones,304000,TRUE,2002,61,4,164.062,"hip hop, pop, R&B"
+Missy Elliott,Gossip Folks (feat. Ludacris),234893,TRUE,2002,57,0,121.732,"hip hop, pop, R&B"
+Girls Aloud,Jump,220360,FALSE,2003,60,8,134.465,"pop, Dance/Electronic"
+Ultrabeat,Pretty Green Eyes - Radio Edit,201920,FALSE,2003,59,1,139.993,"pop, Dance/Electronic"
+Christina Aguilera,Fighter,245960,FALSE,2002,67,4,188.899,pop
+Frankie J,Don't Wanna Try,245293,FALSE,2003,49,5,130.127,"hip hop, pop, R&B"
+Snoop Dogg,Beautiful,299146,TRUE,2005,67,11,101.025,"hip hop, pop"
+Floetry,Say Yes,268373,FALSE,2002,57,5,117.901,"hip hop, pop, R&B"
+Ginuwine,In Those Jeans,243306,TRUE,2003,59,1,127.683,"hip hop, pop, R&B"
+Electric Six,Danger! High Voltage - Soulchild Radio Mix,214600,FALSE,2003,0,11,123.005,rock
+Rachel Stevens,Sweet Dreams My LA Ex - Radio Edit,208386,FALSE,2003,38,2,130.036,"pop, Dance/Electronic"
+Ludacris,Stand Up,213760,TRUE,2003,57,6,99.057,"hip hop, pop"
+Nas,I Can,253720,FALSE,2002,58,6,95.313,hip hop
+3 Doors Down,When I'm Gone,260333,FALSE,2002,67,7,148.095,"pop, rock, metal"
+Tyrese,How You Gonna Act Like That,294693,FALSE,2002,60,3,112.913,"hip hop, pop, R&B"
+Justin Timberlake,Cry Me a River,288333,FALSE,2002,73,8,73.898,pop
+Westlife,Mandy,199320,FALSE,2003,57,5,105.678,pop
+No Doubt,It's My Life,226053,FALSE,2003,60,8,126.326,"rock, pop"
+Amanda Perez,Angel,218760,FALSE,2003,48,0,143.772,"pop, R&B"
+JAY-Z,Excuse Me Miss,281240,TRUE,2002,56,6,92.849,hip hop
+Coldplay,Clocks,307879,FALSE,2002,79,5,130.97,"rock, pop"
+Kelly Rowland,Stole,249293,FALSE,2002,54,7,79.993,"hip hop, pop, R&B"
+Missy Elliott,Work It,263226,TRUE,2002,70,1,101.868,"hip hop, pop, R&B"
+Ashanti,Rock Wit U (Awww Baby),209120,FALSE,2003,65,4,94.998,"hip hop, pop, R&B"
+Junior Senior,Move Your Feet,181826,FALSE,2002,67,9,118.877,pop
+Audioslave,Like a Stone,293960,FALSE,2002,75,7,107.849,"rock, metal"
+Sean Paul,Like Glue,232506,FALSE,2002,61,1,97.917,"hip hop, pop"
+Jaheim,Put That Woman First,245773,TRUE,2002,55,5,78.935,"pop, R&B"
+Jennifer Lopez,All I Have (feat. LL Cool J),254466,FALSE,2002,60,1,83.066,"hip hop, pop, R&B"
+Monica,So Gone,242773,FALSE,2003,64,8,81.975,"pop, R&B"
+Dido,White Flag,240040,FALSE,2003,44,5,169.951,pop
+The Roots,The Seed (2.0),267933,TRUE,2002,63,7,111.121,hip hop
+Chingy,Holidae In,314400,TRUE,2003,61,7,153.067,"hip hop, pop, R&B"
+Fabolous,Can't Let You Go (feat. Mike Shorey & Lil' Mo),223973,TRUE,2003,61,9,192.082,"hip hop, pop, R&B"
+Kelly Clarkson,Miss Independent,214773,FALSE,2003,47,11,175.943,"pop, R&B"
+Ja Rule,Mesmerize,278693,TRUE,2002,61,1,90.079,"hip hop, pop, R&B"
+Matchbox Twenty,Unwell,228706,FALSE,2002,63,6,80.718,"pop, rock"
+Outkast,The Way You Move (feat. Sleepy Brown),234000,TRUE,2003,66,5,125.999,"hip hop, pop"
+Fabolous,Into You (feat. Tamia),295773,TRUE,2003,67,7,182.12,"hip hop, pop, R&B"
+Switchfoot,Meant to Live,201373,FALSE,2003,61,2,151.551,"rock, pop"
+Daniel Bedingfield,If You're Not The One,257026,FALSE,2002,58,10,119.998,pop
+Good Charlotte,Lifestyles of the Rich & Famous,190173,FALSE,2002,68,1,106.22,"rock, metal"
+Wayne Wonder,No Letting Go,202013,FALSE,2003,63,5,100.215,"hip hop, R&B"
+The Strokes,Reptilia,219826,FALSE,2003,74,9,158.009,rock
+Avril Lavigne,I'm with You,223066,FALSE,2002,70,9,151.95,pop
+Will Young,Leave Right Now,214733,FALSE,2003,55,6,81.931,pop
+Usher,Yeah! (feat. Lil Jon & Ludacris),250373,FALSE,2004,81,2,105.018,"hip hop, pop, R&B"
+Maroon 5,This Love,206200,FALSE,2002,77,5,95.051,pop
+Britney Spears,Toxic,198800,FALSE,2003,81,5,143.04,pop
+Outkast,Hey Ya!,235213,FALSE,2003,80,4,79.526,"hip hop, pop"
+Hoobastank,The Reason,232800,FALSE,2003,79,4,82.952,"pop, rock, metal"
+Anastacia,Left Outside Alone,257426,FALSE,2004,65,2,102.847,pop
+Daddy Yankee,Gasolina,192600,FALSE,2004,11,0,96.009,latin
+Black Eyed Peas,Let's Get It Started - Spike Mix,217733,FALSE,2004,53,11,104.923,"hip hop, pop"
+O-Zone,Dragostea Din Tei,215431,FALSE,2004,56,0,130.103,pop
+Terror Squad,Lean Back,247426,TRUE,2004,67,1,95.321,hip hop
+Anastacia,Sick and Tired,212266,FALSE,1999,56,0,99.848,pop
+Gwen Stefani,What You Waiting For?,221226,FALSE,2004,60,5,136.027,"pop, R&B"
+Ashanti,Only U - No Intro,186306,FALSE,2004,56,6,94.547,"hip hop, pop, R&B"
+The Rasmus,In the Shadows,257920,FALSE,2003,68,2,105.991,metal
+Houston,I Like That,236520,FALSE,2004,59,10,106.997,"hip hop, pop"
+Beyoncé,Naughty Girl,208600,FALSE,2003,63,6,99.973,"pop, R&B"
+Linkin Park,Numb,185586,FALSE,2003,81,9,110.018,"rock, metal"
+Lloyd Banks,On Fire,187280,TRUE,2004,61,8,94.857,"hip hop, pop"
+Akon,Locked Up,235066,TRUE,2004,16,7,89.987,pop
+D12,My Band,298773,TRUE,2004,73,1,120.014,"hip hop, pop, rock"
+Jay Sean,Eyes On You - Radio Mix,190493,FALSE,2004,42,7,96.525,"hip hop, pop, R&B"
+Mario Winans,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,257333,FALSE,2016,66,11,97.007,pop
+Destiny's Child,Lose My Breath,242013,FALSE,2004,61,1,119.011,"pop, R&B"
+Eric Prydz,Call on Me - Radio Mix,171360,FALSE,2004,72,10,126.342,"pop, Dance/Electronic"
+Ciara,Goodies (feat. Petey Pablo),223000,FALSE,2004,67,5,102.017,"pop, R&B"
+Kelis,Trick Me,206106,TRUE,2003,63,1,107.17,"pop, R&B, Dance/Electronic"
+LL Cool J,Headsprung,267320,FALSE,2004,56,0,99.916,"hip hop, pop, R&B"
+Spiderbait,Black Betty - Edit,205973,FALSE,2004,63,7,124.047,rock
+George Michael,Amazing,265826,FALSE,2004,57,10,128.429,pop
+Britney Spears,My Prerogative,213893,FALSE,2004,53,10,111.014,pop
+Nina Sky,Move Ya Body,232000,FALSE,2004,67,11,121.057,"pop, R&B"
+Baby Bash,Suga Suga,239026,FALSE,2003,73,5,82.331,"hip hop, pop, R&B, latin"
+Petey Pablo,Freek-A-Leek,235186,TRUE,2003,56,2,104.917,"hip hop, pop"
+JAY-Z,Dirt Off Your Shoulder,245173,TRUE,2003,53,1,163.971,hip hop
+Juanes,La Camisa Negra,216706,FALSE,2004,70,6,97.007,"pop, latin"
+Avril Lavigne,Nobody's Home,212413,FALSE,2004,61,5,185.406,pop
+Robbie Williams,Radio,233600,FALSE,2004,33,5,130.015,"pop, rock"
+Black Eyed Peas,Hey Mama,214893,TRUE,2003,49,4,100.15,"hip hop, pop"
+Ying Yang Twins,Salt Shaker,252440,TRUE,2003,61,11,101.965,"hip hop, pop"
+Enrique Iglesias,Not In Love - Radio Mix,223133,FALSE,2003,37,0,117.021,"pop, latin"
+Kelis,Milkshake,182626,FALSE,2003,68,1,112.968,"pop, R&B, Dance/Electronic"
+Linkin Park,Breaking the Habit,196906,FALSE,2003,68,4,100.021,"rock, metal"
+JoJo,Leave (Get Out) - Radio Edit,242746,FALSE,2005,49,5,86.891,"hip hop, pop, R&B"
+Christina Milian,Dip It Low,197186,FALSE,2004,45,11,169.131,"hip hop, pop, R&B"
+Avant,Read Your Mind,263506,FALSE,2003,56,8,73.108,"pop, R&B"
+Eminem,Just Lose It,248680,TRUE,2004,67,8,121.003,hip hop
+Sugababes,Too Lost In You,237693,FALSE,2003,58,1,98.014,"pop, R&B"
+Snoop Dogg,Drop It Like It's Hot,266066,TRUE,2004,39,1,92.063,"hip hop, pop"
+Sean Paul,I'm Still in Love with You (feat. Sasha),273360,FALSE,2002,68,7,87.002,"hip hop, pop"
+The Shapeshifters,Lola's Theme - Radio Edit,207066,FALSE,2004,65,5,123.925,Dance/Electronic
+D12,How Come,249533,TRUE,2004,57,9,89.983,"hip hop, pop, rock"
+Basement Jaxx,Good Luck,282306,FALSE,2003,0,5,154.07,"pop, Dance/Electronic"
+Kevin Lyttle,Turn Me On,192106,FALSE,2004,67,9,106.279,hip hop
+Chingy,One Call Away,276800,FALSE,2003,61,4,162.519,"hip hop, pop, R&B"
+T.I.,Bring Em Out,216706,TRUE,2004,63,11,98.579,"hip hop, pop"
+DJ Casper,Cha Cha Slide - Hardino Mix,222146,FALSE,2004,51,11,131.012,hip hop
+Kylie Minogue,I Believe in You,200973,FALSE,2004,47,7,120.939,"pop, Dance/Electronic"
+Twista,Overnight Celebrity,233360,TRUE,2004,66,10,134.199,"hip hop, pop, R&B"
+N.E.R.D,She Wants To Move,213786,FALSE,2004,57,5,115.012,hip hop
+Britney Spears,Everytime,230306,FALSE,2003,63,3,109.599,pop
+U2,Vertigo,193520,FALSE,2004,64,9,140.083,"World/Traditional, rock"
+Franz Ferdinand,Take Me Out,237026,FALSE,2004,77,4,104.561,rock
+J-Kwon,Tipsy - Club Mix,247106,TRUE,2001,59,9,93.04,"hip hop, pop"
+G-Unit,Wanna Get To Know You,265026,TRUE,2003,61,10,76.91,"hip hop, pop"
+Lil' Flip,Sunshine (feat. Lea),225173,TRUE,2004,42,0,93.961,"hip hop, pop"
+Kanye West,Jesus Walks,193733,TRUE,2004,73,3,87.312,hip hop
+Evanescence,My Immortal,262533,FALSE,2003,72,9,79.012,metal
+Nelly,My Place,336506,TRUE,2004,57,1,163.153,"hip hop, pop, R&B"
+Lemar,If There's Any Justice,229080,FALSE,2004,46,6,89.993,R&B
+No Doubt,It's My Life,226053,FALSE,2003,60,8,126.326,"rock, pop"
+Avril Lavigne,Don't Tell Me,202013,FALSE,2004,58,4,144.106,pop
+Twista,Slow Jamz,316053,TRUE,2004,72,2,145.115,"hip hop, pop, R&B"
+Green Day,American Idiot,176346,TRUE,2004,77,1,186.113,rock
+Kelis,Millionaire,224933,FALSE,2003,57,11,176.051,"pop, R&B, Dance/Electronic"
+Scissor Sisters,Comfortably Numb,266040,FALSE,2004,43,7,116.972,"pop, rock, Dance/Electronic"
+Alicia Keys,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),284160,FALSE,2003,55,8,127.932,"pop, R&B"
+Kanye West,Through The Wire,221226,TRUE,2004,76,7,83.089,hip hop
+Special D.,Come With Me - Radio Edit,185133,FALSE,2004,61,7,139.982,pop
+Ludacris,Splash Waterfalls,290760,TRUE,2003,48,11,145.894,"hip hop, pop"
+Avril Lavigne,My Happy Ending,242413,TRUE,2004,68,2,170.229,pop
+Dido,White Flag,240040,FALSE,2003,44,5,169.951,pop
+Eamon,Fuck It (I Don't Want You Back),225106,TRUE,2004,64,0,68.507,"R&B, pop"
+Beyoncé,"Me, Myself and I",301133,FALSE,2003,62,1,83.61,"pop, R&B"
+3 Doors Down,Here Without You,238733,FALSE,2002,74,10,143.994,"pop, rock, metal"
+Kanye West,All Falls Down,223506,TRUE,2004,80,8,91.03,hip hop
+Twista,Sunshine (feat. Anthony Hamilton),226013,TRUE,2004,56,11,98.523,"hip hop, pop, R&B"
+Katie Melua,The Closest Thing to Crazy,252466,FALSE,2003,55,4,127.831,"pop, easy listening, jazz"
+Usher,My Boo,223440,FALSE,2004,76,5,86.412,"hip hop, pop, R&B"
+Lloyd,Southside,277840,FALSE,2004,59,9,75.007,"hip hop, pop, R&B"
+LMC,Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit,171546,FALSE,2004,59,6,128.658,Dance/Electronic
+The Streets,Fit but You Know It,254266,TRUE,2004,58,6,172.302,"hip hop, Dance/Electronic"
+JUVENILE,Slow Motion,248200,TRUE,2003,64,0,172.872,"hip hop, pop"
+Outkast,The Way You Move (feat. Sleepy Brown),234000,TRUE,2003,66,5,125.999,"hip hop, pop"
+Girls Aloud,Love Machine,205360,FALSE,2004,59,7,116.02,"pop, Dance/Electronic"
+Jessica Simpson,With You,191826,FALSE,2003,57,0,94.487,"pop, R&B"
+Eminem,Like Toy Soldiers,296880,TRUE,2004,48,8,79.178,hip hop
+Gary Jules,Mad World (Feat. Michael Andrews),189506,FALSE,2001,65,3,174.117,pop
+Ashlee Simpson,Pieces Of Me,217440,FALSE,2004,56,2,174.001,pop
+Will Young,Leave Right Now,214733,FALSE,2003,55,6,81.931,pop
